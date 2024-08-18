@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chartine Uwase</h1>
-<h3 align="center">A passionate software developer from Rwanda</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m learning more about **React, and Node.js**
 
